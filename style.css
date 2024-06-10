@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(https://pbs.twimg.com/amplify_video_thumb/1587842873440935936/img/rb0cDTiZbRdeO38c.jpg:large);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: #074173;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+h2{
+    color: white;
+    font-size: 20px;
+}
+
+h4{
+    margin-top: 1%;
+    font-size: 20px;
+    color: white;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    height: 30px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.rgt{
+    width: 200px;
+    height: 40px;
+    margin-left: 20%;
+    background-color: #074173;
+    border-radius: 50px;
+    color: aliceblue;
+}
+
+
